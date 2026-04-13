@@ -1,6 +1,6 @@
 # Smart-City-Lighting-System-IoT-Embedded-C-
 
-# Smart City Lighting System 💡 (Team J.A.R.V.I.S)
+# Smart City Lighting System 
 
 An automated and energy-efficient street lighting solution developed using **Embedded C**, combining environmental light sensing and real-time scheduling.
 
